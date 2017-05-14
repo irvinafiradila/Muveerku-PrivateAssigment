@@ -8,10 +8,11 @@ Link File APK Release :
 
 https://drive.google.com/open?id=0B08tKMxKUq7DMnhYM3RIN1dFcU0
 
-
+<br>
 
 IDENTITAS         :
 
+<br>
 
 Nama lengkap      : Irvina Firadila
 
@@ -23,22 +24,22 @@ Angkatan          : 24
 
 SMK Telkom Malang 
 
-
-
+<br>
 
 Alamat API yang digunakan : https://www.themoviedb.org/documentation/api
 
-
+<br>
 
 Jenis Navigasi yang digunakan : Navigation Drawer
 
-
+<br>
 
 DESKRIPSI APLIKASI :
 
 
 Aplikasi ini bernama Muveerku sebagai List Movie. Aplikasi yang menampilkan daftar film. Dengan 3 menu pilihan yaitu Now Playing yang menampilkan daftar film yang tayang sekarang, Top Rated yaitu menampilkan dafat film yang mempunyai posisi teratas yang plaing banyak ditonton, dan Coming Soon yang menampilkan daftar film yang akan segera tayang.
 
+<br>
 
 KELEBIHAN APLIKASI :
 
@@ -46,6 +47,7 @@ KELEBIHAN APLIKASI :
 -Memudahkan pengguna untuk mencari referensi film, dengan dimuatnya banyak film dengan 3 menu pilihan.
 -Dapat mengetahui film yang tayang skearang, film dengan posisi teratas dan yang akan segera tayang.
 
+<br>
 
 SCREENSHOT
 
