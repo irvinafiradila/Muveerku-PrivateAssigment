@@ -37,7 +37,7 @@ SMK Telkom Malang
 # DESKRIPSI APLIKASI :
 
 
-Aplikasi ini bernama Muveerku sebagai List Movie. Aplikasi yang menampilkan daftar film. Dengan 3 menu pilihan yaitu Now Playing yang menampilkan daftar film yang tayang sekarang, Top Rated yaitu menampilkan dafat film yang mempunyai posisi teratas yang plaing banyak ditonton, dan Coming Soon yang menampilkan daftar film yang akan segera tayang.
+Aplikasi ini bernama Muveerku sebagai List Movie. Aplikasi yang menampilkan daftar film. Dengan 3 menu pilihan yaitu Now Playing yang menampilkan daftar film yang tayang sekarang, Top Rated yaitu menampilkan dafat film yang mempunyai posisi teratas yang plaing banyak ditonton, dan Coming Soon yang menampilkan daftar film yang akan segera tayang. Data yang ditampilkan dijamin kevalid-an dan kebenarannya. Dengan ini pengguna aplikasi dapat mendapatkan informasi atau detail dari setiap film-film yang disajikan pada aplikasi ini. Dengan begitu pengguna dapat mengetahui lebih jauh dan user akan lebih mudah memilih dan menentukan mana film yang menurutnya baik dan bagus untuk ditonton. Aplikasi ini dapat update sewaktu-waktu, sehingga user tidak akan ketinggalan mengenai update film yang disediakan. Namun untuk update ini user harus memiliki koneksi untuk meload data yang baru. Jika tidak ada koneksi internet kemungkinan aplikasi ini akan menampilkan data akhir yang telah dibuka pada hari atau waktu sebelumnya.
 
 <br>
 
@@ -55,17 +55,23 @@ Aplikasi ini bernama Muveerku sebagai List Movie. Aplikasi yang menampilkan daft
 # SCREENSHOT APLIKASI : 
 
 
-![1.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/1.png)
+![s1.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s1.png)
+<br>
 
-![2.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/2.png)
+![s2.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s2.png)
+<br>
 
-![3.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/3.png)
+![s3.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s3.png)
+<br>
 
-![4.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/4.png)
+![s4.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s4.png)
+<br>
 
-![5.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/5.png)
+![s5.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s5.png)
+<br>
 
-![6.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/6.png)
+![s6.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s6.png)
+<br>
 
-![7.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/7.png)
+![s7.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s7.png)
 
