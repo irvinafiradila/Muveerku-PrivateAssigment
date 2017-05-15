@@ -1,16 +1,16 @@
-# Muveerku-PrivateAssigment
-
-<h3> List Movie - Muveerku <h3>
+# Muveerku
 
 <br>
 
-Link File APK Release : 
+# Link File APK Release : 
+
+<br>
 
 https://drive.google.com/drive/folders/0B08tKMxKUq7DMnhYM3RIN1dFcU0?usp=sharing
 
 <br>
 
-IDENTITAS         :
+# IDENTITAS         :
 
 <br>
 
@@ -26,30 +26,33 @@ SMK Telkom Malang
 
 <br>
 
-Alamat API yang digunakan : https://www.themoviedb.org/documentation/api
+# Alamat API yang digunakan : https://www.themoviedb.org/documentation/api
 
 <br>
 
-Jenis Navigasi yang digunakan : Navigation Drawer
+# Jenis Navigasi yang digunakan : Navigation Drawer
 
 <br>
 
-DESKRIPSI APLIKASI :
+# DESKRIPSI APLIKASI :
 
 
 Aplikasi ini bernama Muveerku sebagai List Movie. Aplikasi yang menampilkan daftar film. Dengan 3 menu pilihan yaitu Now Playing yang menampilkan daftar film yang tayang sekarang, Top Rated yaitu menampilkan dafat film yang mempunyai posisi teratas yang plaing banyak ditonton, dan Coming Soon yang menampilkan daftar film yang akan segera tayang.
 
 <br>
 
-KELEBIHAN APLIKASI :
+# KELEBIHAN APLIKASI :
 
 
 -Memudahkan pengguna untuk mencari referensi film, dengan dimuatnya banyak film dengan 3 menu pilihan.
+<br>
 -Dapat mengetahui film yang tayang skearang, film dengan posisi teratas dan yang akan segera tayang.
+<br>
+-Daftar Film dapat dilihat secara offline
 
 <br>
 
-SCREENSHOT
+# SCREENSHOT APLIKASI : 
 
 
 ![1.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/1.png)
