@@ -20,29 +20,31 @@ import id.sch.smktelkom_mlg.privateassigment.xirpl514.muveerku.model.Result;
  */
 
 public class SourceAdapter extends RecyclerView.Adapter<SourceAdapter.ViewHolder> {
-    Context context;
     ArrayList<Result> list;
-    ISourceAdapter mISourceAdapter;
+    SourceAdapter.ISourceAdapter mISourceAdapter;
+    Context context;
 
     public SourceAdapter(Context context, ArrayList<Result> list) {
         this.list = list;
         this.context = context;
-        mISourceAdapter = (ISourceAdapter) context;
+        mISourceAdapter = (SourceAdapter.ISourceAdapter) context;
     }
 
     @Override
-    public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    public SourceAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         View v = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.source_list, parent, false);
-        ViewHolder vh = new ViewHolder(v);
+                .inflate(R.layout.list_item, parent, false);
+        SourceAdapter.ViewHolder vh = new SourceAdapter.ViewHolder(v);
         return vh;
     }
 
     @Override
-    public void onBindViewHolder(ViewHolder holder, int position) {
+    public void onBindViewHolder(SourceAdapter.ViewHolder holder, int position) {
         Result result = list.get(position);
-        holder.tvName.setText(result.title);
+        holder.tvTitle.setText(result.title);
         holder.tvDesc.setText(result.overview);
+        holder.tvRelease.setText(result.release_date);
+        holder.tvRating.setText(result.vote_average);
         Glide.with(context)
                 .load("http://image.tmdb.org/t/p/w500" + result.poster_path)
                 .into(holder.ivPoster);
@@ -56,29 +58,34 @@ public class SourceAdapter extends RecyclerView.Adapter<SourceAdapter.ViewHolder
     }
 
     public interface ISourceAdapter {
-        void showArticles(String title, String overview, String poster_path);
+        void showArticles(String poster_path, String overview, String release_date, String title, String backdrop_path, String vote_average, String original_language, String popularity, String vote_count);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
-        TextView tvName;
-        TextView tvDesc;
         ImageView ivPoster;
+        TextView tvTitle;
+        TextView tvDesc;
+        TextView tvRelease;
+        TextView tvRating;
+        TextView tvPopularity;
+        TextView tvVote;
+        TextView tvLanguage;
 
         public ViewHolder(View itemView) {
             super(itemView);
-            tvName = (TextView) itemView.findViewById(R.id.textViewName);
-            tvDesc = (TextView) itemView.findViewById(R.id.textViewDesc);
             ivPoster = (ImageView) itemView.findViewById(R.id.imageViewPoster);
-            /*itemView.setOnClickListener(new View.OnClickListener()
-            {
+            tvTitle = (TextView) itemView.findViewById(R.id.textViewTitle);
+            tvDesc = (TextView) itemView.findViewById(R.id.textViewOverview);
+            tvRelease = (TextView) itemView.findViewById(R.id.textViewDate);
+            tvRating = (TextView) itemView.findViewById(R.id.textViewRating);
+            tvPopularity = (TextView) itemView.findViewById(R.id.VoteAverage);
+            itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
-                public void onClick(View v)
-                {
+                public void onClick(View v) {
                     Result result = list.get(getAdapterPosition());
-                    List<String> sort = result.sortBysAvailable;
-                    mISourceAdapter.showArticles(result.id, result.name, sort.get(sort.size() - 1));
+                    mISourceAdapter.showArticles(result.poster_path, result.overview, result.release_date, result.title, result.backdrop_path, result.vote_average, result.original_language, result.popularity, result.vote_count);
                 }
-            });*/
+            });
         }
     }
 }
