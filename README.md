@@ -6,7 +6,7 @@
 
 <br>
 
-https://drive.google.com/file/d/0B08tKMxKUq7Da3Nubm1SQXcwMzg/view?usp=sharing
+[Download Aplikasi](https://drive.google.com/uc?export=download&id=0B36Y2xO8CvzlV25BQUhhUlVUQjQ)
 
 <br>
 
@@ -34,6 +34,10 @@ SMK Telkom Malang
 
 <br>
 
+# Local Database : SugarORM
+
+<br>
+
 # DESKRIPSI APLIKASI :
 
 
@@ -52,26 +56,15 @@ Aplikasi ini bernama Muveerku sebagai List Movie. Aplikasi yang menampilkan daft
 
 <br>
 
+# LIBRARY LAIN :
+
+
+-Intro/Guide Aplikasi - 'com.github.deano2390:MaterialShowcaseView:1.1.0'
+
+<br>
+
 # SCREENSHOT APLIKASI : 
 
-
-![s1.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s1.png)
-<br>
-
-![s2.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s2.png)
-<br>
-
-![s3.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s3.png)
-<br>
-
-![s4.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s4.png)
-<br>
-
-![s5.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s5.png)
-<br>
-
-![s6.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s6.png)
-<br>
-
-![s7.png](https://github.com/irvinafiradila/Muveerku-PrivateAssigment/blob/master/s7.png)
-
+<img src="https://user-images.githubusercontent.com/22164425/27066318-69e78de2-502d-11e7-833c-b428fd3858dc.jpg" width="300" height="515" /><img src="https://user-images.githubusercontent.com/22164425/27066319-6a1ad2d8-502d-11e7-9672-5934da389a82.jpg" width="300" height="515" />
+<img src="https://user-images.githubusercontent.com/22164425/27066321-6a2b291c-502d-11e7-85f7-0d8f5ae56f1c.png" width="300" height="515" /><img src="https://user-images.githubusercontent.com/22164425/27066323-6a2ebc3a-502d-11e7-9078-ade9b8bcdaa6.png" width="300" height="515" />
+<img src="https://user-images.githubusercontent.com/22164425/27066322-6a2b94a6-502d-11e7-8af6-ae37e16f369d.png" width="300" height="515" /><img src="https://user-images.githubusercontent.com/22164425/27066320-6a2b043c-502d-11e7-8b02-cffa096e2319.png" width="300" height="515" />
